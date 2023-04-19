@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Rodrigo Gonzalez Laiz
 
 # Full name (for SEO)
 first_name: Rodrigo
