@@ -22,24 +22,28 @@ organizations:
     url: https://www.helmholtz-munich.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learnig for science.
+bio: My research interests include machine learnig for science. My research interests include machine learnig for science. 
+My research interests include machine learnig for science. My research interests include machine learnig for science. 
+My research interests include machine learnig for science. My research interests include machine learnig for science. 
+My research interests include machine learnig for science. My research interests include machine learnig for science. 
+
+Previously, I worked with Mackenzie Mathis on intepretability of self supervised learning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   
-
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: Msc statistics
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistics, AI
+      institution: LMU, Helmholtz
+      year: 20
+    - course: MSc statistics
+      year: 2020-2023
+    - course: BSc in Economics, Statistics, Computer Science
+      institution: Universidad Carlos III
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
