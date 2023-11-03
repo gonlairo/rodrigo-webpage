@@ -22,11 +22,7 @@ organizations:
     url: https://www.helmholtz-munich.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research
-interests include machine learnig for science. My research interests include machine learnig for science. My research interests
-include machine learnig for science. My research interests include machine learnig for science. 
-
-Previously, I worked with Mackenzie Mathis on intepretability of self supervised learning.
+bio: My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research interests include machine learnig for science. My research interestsinclude machine learnig for science. My research interests include machine learnig for science. Previously, I worked with Mackenzie Mathis on intepretability of self supervised learning.
 
 # Interests to show in About widget
 interests:
